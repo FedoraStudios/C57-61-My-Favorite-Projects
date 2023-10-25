@@ -1,0 +1,7 @@
+body{ background: linear-gradient(20deg, white, black);
+text-align: center;}
+
+img{border-radius: 10px;}
+
+.menu{list-style: none; font-family: cursive;, float: right; cursor: pointer; color: black;}
+.link{color: crimson; display: inline; padding-top:5px; padding-left: 9px; padding-right: 9px; padding-bottom: 5px;}
